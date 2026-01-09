@@ -1,0 +1,8 @@
+{
+  "name": "Code-Set | Autonomous Digital Agency",
+  "description": "An elite AI-native web creation ecosystem where architectural planning meets autonomous development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
